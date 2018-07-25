@@ -1,24 +1,13 @@
-# README
+# The Hacking Pinterest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Prerequisites
 
-Things you may want to cover:
+Ruby version : 2.5.1
 
-* Ruby version
+Run ```bundle install```
 
-* System dependencies
+##Informations
 
-* Configuration
+Check schema.rb and seeds.rb in the db directory and in the db/migrate directory to understand all updates that have been done.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Models are in the app/models directory
